@@ -50,3 +50,4 @@ Conclusion
 The AI-Powered Text Summarization Tool enhances efficiency by transforming long texts into concise, meaningful summaries. Its AI-driven approach makes it an essential tool for professionals handling large volumes of information. Future improvements may include multilingual support, customization options, and domain-specific tuning for better adaptability.
 
 #output
+![Image](https://github.com/user-attachments/assets/18d1c4c3-2177-4a7b-8a26-4286c345bff6)
